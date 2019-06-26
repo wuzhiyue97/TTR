@@ -1,0 +1,9 @@
+<!--pages/text/text.wxml-->
+<text>你好天头肉\n/text>
+
+
+<text selectable='{{true}}'>Hello TianTouRou</text>
+
+<text selectable>Hello TianTouRou</text>
+
+<text>天头肉要弄人了</text>
